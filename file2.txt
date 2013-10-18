@@ -1,1 +1,2 @@
-we are now training for software on git
+ we are now training for software on git
+are you having fun?
