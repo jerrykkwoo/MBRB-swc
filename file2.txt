@@ -1,2 +1,3 @@
  we are now training for software on git
 are you having fun?
+yes I am but it is hard
